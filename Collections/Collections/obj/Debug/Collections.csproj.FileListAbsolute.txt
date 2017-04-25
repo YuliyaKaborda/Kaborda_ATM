@@ -1,0 +1,12 @@
+F:\Projects\Console_Test\Collections\Collections\bin\Debug\Collections.exe.config
+F:\Projects\Console_Test\Collections\Collections\bin\Debug\Collections.exe
+F:\Projects\Console_Test\Collections\Collections\bin\Debug\Collections.pdb
+F:\Projects\Console_Test\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+F:\Projects\Console_Test\Collections\Collections\obj\Debug\Collections.exe
+F:\Projects\Console_Test\Collections\Collections\obj\Debug\Collections.pdb
+D:\CNet\Collections\Collections\Collections\bin\Debug\Collections.exe.config
+D:\CNet\Collections\Collections\Collections\bin\Debug\Collections.exe
+D:\CNet\Collections\Collections\Collections\bin\Debug\Collections.pdb
+D:\CNet\Collections\Collections\Collections\obj\Debug\Collections.exe
+D:\CNet\Collections\Collections\Collections\obj\Debug\Collections.pdb
+D:\CNet\Collections\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
