@@ -1,0 +1,11 @@
+F:\Projects\Console_Test\AirLine\Airline.Business\bin\Debug\Airline.Business.dll
+F:\Projects\Console_Test\AirLine\Airline.Business\bin\Debug\Airline.Business.pdb
+F:\Projects\Console_Test\AirLine\Airline.Business\obj\Debug\Airline.Business.csprojResolveAssemblyReference.cache
+F:\Projects\Console_Test\AirLine\Airline.Business\obj\Debug\Airline.Business.dll
+F:\Projects\Console_Test\AirLine\Airline.Business\obj\Debug\Airline.Business.pdb
+D:\CNet\AviaCompany\AirLine\Airline.Business\bin\Debug\Airline.Business.dll
+D:\CNet\AviaCompany\AirLine\Airline.Business\bin\Debug\Airline.Business.pdb
+D:\CNet\AviaCompany\AirLine\Airline.Business\obj\Debug\Airline.Business.csprojResolveAssemblyReference.cache
+D:\CNet\AviaCompany\AirLine\Airline.Business\obj\Debug\Airline.Business.dll
+D:\CNet\AviaCompany\AirLine\Airline.Business\obj\Debug\Airline.Business.pdb
+D:\CNet\AviaCompany\AirLine\Airline.Business\bin\Debug\Newtonsoft.Json.dll

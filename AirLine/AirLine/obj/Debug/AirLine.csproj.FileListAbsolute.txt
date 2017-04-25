@@ -1,0 +1,17 @@
+F:\Projects\Console_Test\AirLine\AirLine\bin\Debug\AirLine.exe.config
+F:\Projects\Console_Test\AirLine\AirLine\bin\Debug\AirLine.exe
+F:\Projects\Console_Test\AirLine\AirLine\bin\Debug\AirLine.pdb
+F:\Projects\Console_Test\AirLine\AirLine\bin\Debug\Airline.Business.dll
+F:\Projects\Console_Test\AirLine\AirLine\bin\Debug\Airline.Business.pdb
+F:\Projects\Console_Test\AirLine\AirLine\obj\Debug\AirLine.csprojResolveAssemblyReference.cache
+F:\Projects\Console_Test\AirLine\AirLine\obj\Debug\AirLine.exe
+F:\Projects\Console_Test\AirLine\AirLine\obj\Debug\AirLine.pdb
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\AirLine.exe.config
+D:\CNet\AviaCompany\AirLine\AirLine\obj\Debug\AirLine.exe
+D:\CNet\AviaCompany\AirLine\AirLine\obj\Debug\AirLine.pdb
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\AirLine.exe
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\AirLine.pdb
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\Airline.Business.dll
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\Airline.Business.pdb
+D:\CNet\AviaCompany\AirLine\AirLine\obj\Debug\AirLine.csprojResolveAssemblyReference.cache
+D:\CNet\AviaCompany\AirLine\AirLine\bin\Debug\Newtonsoft.Json.dll
